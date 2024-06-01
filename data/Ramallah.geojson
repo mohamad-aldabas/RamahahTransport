@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "attr1": "Point of Interest 1",
+                "attr2": "Category 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.198,
+                    31.905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "attr1": "Point of Interest 2",
+                "attr2": "Category 2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.203,
+                    31.908
+                ]
+            }
+        }
+    ]
+}
